@@ -1,7 +1,7 @@
 # apresentacao
 
 Eu sou ThiaguinBit 
-Sou um aluno da Unisul gosto de transformar ideias em código desenvolvendo experiencias enpenhado e focado 
+Sou um aluno da Unisul gosto de transformar ideias em código desenvolvendo experiencias sempre empenhado e focado 
 
 Habilidades Essenciais
 Aprendizado Linguagens: Front-end: HTML, CSS, JavaScript, c++
