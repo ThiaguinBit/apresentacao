@@ -8,7 +8,8 @@ Aprendizado Linguagens: Front-end: HTML, CSS, JavaScript, c++
                         Back-end: Python
                         Design: Figma, Trello, Miro
 
-Projetos em Destaque: VSCODE -- <!DOCTYPE html>
+Projetos em Destaque: Formulario de Cadastro
+(VSCODE) -- <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
