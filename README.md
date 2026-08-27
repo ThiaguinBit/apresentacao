@@ -3,7 +3,10 @@
 Eu sou ThiaguinBit 
 Sou um aluno da Unisul gosto de transformar ideias em código desenvolvendo experiencias enpenhado e focado 
 
-Habilidades Essenciais Aprendizado Linguagens: python,front end, html, c++, javascrypt
+Habilidades Essenciais
+Aprendizado Linguagens: Front-end: HTML, CSS, JavaScript, c++
+                        Back-end: Python
+                        Design: Figma, Trello, Miro
 
 Projetos em Destaque: VSCODE -- <!DOCTYPE html>
 <html lang="pt-BR">
